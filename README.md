@@ -5,10 +5,13 @@ step1 :
 
 step2 :
 backend prep
-`conda create -n lifeskill-be python=3.7`
-`source activate lifeskill-be`
-`pip install -r requirements.txt`
-`pip freeze > requirements.txt`
+
+<ul>
+  <li>`conda create -n lifeskill-be python=3.7`</li>
+  <li>`source activate lifeskill-be`</li>
+  <li>`pip install -r requirements.txt`</li>
+  <li>`pip freeze > requirements.txt`</li>
+</ul>
 
 ===== Working =====
 
