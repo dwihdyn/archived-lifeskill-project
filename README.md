@@ -1,5 +1,6 @@
-==================================================== MOVED TO LIFESKILL-FE & LIFESKILL-BE REPOSITORY ====================================================
-
+===================================================================================
+moved to https://github.com/dwihdyn/lifeskill-fe & https://github.com/dwihdyn/lifeskill-be due to infrastructure issue
+===================================================================================
 
 
 
